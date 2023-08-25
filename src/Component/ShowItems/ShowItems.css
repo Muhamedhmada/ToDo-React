@@ -1,0 +1,25 @@
+table{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+table tr td{
+    padding: 10px;
+}
+.Icon{
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: larger;
+    width: fit-content;
+    width: 200px;
+}
+.DeleteAll{
+    margin-top: 10px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
