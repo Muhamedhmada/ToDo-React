@@ -1,0 +1,23 @@
+.Add{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+form{
+    width: 60%;
+    display: flex;
+    margin: auto;
+
+}
+#input{
+    margin: auto;
+    flex: 1;
+    border: 0;
+    outline: 0;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px 0 0 10px;
+
+}
+#addbtn{
+    border-radius: 0 10px 10px 0;
+}
